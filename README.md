@@ -14,4 +14,5 @@ It uses socket to communicate with python program and processing program.
     - Replace D2Coding to your installed font which support hangul.
 4. Execute `main.py` and `Conversation_Helper.pde`
     - Execute `main.py` first. (Because python program is server.)
+    - Please allow network communications requested by python.
     - Execute `Conversation_Helper.pde` second. (Because processing program is client.)

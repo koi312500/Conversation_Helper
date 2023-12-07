@@ -2,3 +2,5 @@ requests
 SpeechRecognition
 pygame
 beautifulSoup4
+pyaudio
+setuptools
